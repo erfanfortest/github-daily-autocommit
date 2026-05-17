@@ -4,7 +4,7 @@ import random
 import pytz
 
 # Configuration - Change timezone here
-TIMEZONE = 'Asia/Karachi' 
+TIMEZONE = 'Asia/Tehran' 
 
 def get_timezone_object(tz_name):
     """Get timezone object based on configuration"""
@@ -17,7 +17,7 @@ def get_timezone_object(tz_name):
 def get_timezone_suffix(tz_name):
     """Get timezone suffix for display"""
     suffix_map = {
-        'Asia/Karachi': 'PKT',
+        'Asia/Tehran': 'IR',
         'UTC': 'UTC'
     }
     return suffix_map.get(tz_name, 'UTC')
