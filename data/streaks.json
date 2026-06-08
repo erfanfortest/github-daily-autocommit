@@ -1,5 +1,5 @@
 {
-  "streak_count": 299,
+  "streak_count": 300,
   "streaks": [
     {
       "day": 1,
@@ -1794,6 +1794,12 @@
       "timestamp": "2026-06-07 10:17:49 IR",
       "date": "2026-06-07",
       "description": "Day 299: 2026-06-07 10:17:49 IR"
+    },
+    {
+      "day": 300,
+      "timestamp": "2026-06-08 14:52:54 IR",
+      "date": "2026-06-08",
+      "description": "Day 300: 2026-06-08 14:52:54 IR"
     }
   ],
   "timezone": "Asia/Tehran"
